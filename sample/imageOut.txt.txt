@@ -1,0 +1,45 @@
+1113/25, 9:36 AM DB: View Custom Report
+
+USE NEW BADLAND H PLANS WITH
+View Custom Report EXTENDED PORCH Bottom 5
+Please Click Here For More Help TO MEET NEW SETBACK
+REQUIREMENTS
+
+Report Description: Sales - Approved Structural Options by Lot ID or Offer ID
+
+Report Module: Report Module: Lot Options as at January 13, 2025
+
+Report parameters: Lot Option Approved Status is A, Option Group is ST, Lot ID is 182761, Lot Option Lot Division is ORL
+Grouped by: Lot ID
+
+Sorted by: (Group By fields), Option ID
+
+Lot Lot
+Lot Option , Lot
+(Option Lot oon or on 2509 Lot _Lot Earliest petion Option
+Lot — HABSO 18 489761 OP 99 OP Broadwing Sales Stage 0 1827/H Lot Badland
+
+, ID: Lot Lot Floorplan
+Project Street Agent Incomplete: Floorplan
+
+Number: Address: and
+1D: Full ; Name:
+Elevation:
+Name:
+
+Option ID Option Short Description Lot Accepted Offer
+
+ID
+
+8FTEXTDOORS | Upgrade All Standard Exterior Doors to 8' Tall (option includes standard patio French
+doors)
+
+AEXLGASWG Garage Swing - LEFT
+COVEREDLANA!| | Covered Lanai/ Porch
+
+ST8INTD. 8' Interior Doors First Floor
+
+4 records for Group: Lot ID "182761"
+
+Report took 1 seconds to compile
+
